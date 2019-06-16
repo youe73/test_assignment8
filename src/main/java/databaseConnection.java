@@ -13,7 +13,7 @@ public class databaseConnection
 
         String url = "jdbc:mysql://localhost:3306/MarioPizzaDB?useSSL=false";
         String user = "root";
-        String password = "hina";
+        String password = "";
 
         String query = "SELECT VERSION()";
 
